@@ -15,8 +15,8 @@ project is made as a part of React tutorial by John Smilga
 
 tutorial link:
 https://youtu.be/ly3m6mv5qvg
-2-Tours Intro 19:41
-2-Tours Fetch Data 20:41
-2-Tours Display Data 32:04
-2-Tours Toggle Button 37:40
-2-Tours Remove Tour 43:17
+1. 2-Tours Intro 19:41
+2. 2-Tours Fetch Data 20:41
+3. 2-Tours Display Data 32:04
+4. 2-Tours Toggle Button 37:40
+5. 2-Tours Remove Tour 43:17
